@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AIB-TOSCANA</string>
+    <string name="squadra">Squadra</string>
+    <string name="longitudine">Longitudine</string>
+    <string name="latitudine">Latitudine</string>
+    <string name="aib_toscana">AIB TOSCANA</string>
+    <string name="monte_serra">MONTE SERRA</string>
+    <string name="invia">INVIA</string>
+    <string name="vab20_06">VAB20-06</string>
+    <string name="_0_0">0.0</string>
+    <string name="evento">EVENTO</string>
+    <string name="acquisisci_gps">ACQUISISCI GPS</string>
+</resources>
